@@ -1,0 +1,69 @@
+Class :			MobilePhone
+
+Properties :
+    - OS		IOS, Andriod	
+    - Application	AppStore(), PlayStore()
+
+Method :
+    - PhoneCall()
+    - SMS()
+    - InternetSurfing()
+
+
+
+Class :			Iphone8
+
+Properties :						
+    - OS		IOS
+    - Application	AppStore() 
+					    
+Method :		
+    - PhoneCall()	
+    - SMS()					    
+    - InternetSurfing()
+			- TouchID()
+
+
+Class :			IphoneX
+
+Properties :		
+    - OS		IOS
+    - Application	AppStore() 
+					    
+Method :		
+    - PhoneCall()				    			
+    - SMS()					    
+    - InternetSurfing()
+			- FaceID()
+
+
+
+Class :			Samsung Galaxy Note8
+
+Properties :		
+    - OS		Andriod
+    - Application	GooglePlay() 
+					    
+Method :		
+    - PhoneCall()				    			
+    - SMS()					    
+    - InternetSurfing()
+			- UseGearVR()
+			- TransformToPC()
+			- UsePen()
+
+
+Class :			Samsung Galaxy S8
+
+Properties :		
+    - OS		Andriod
+    - Application	GooglePlay() 
+					    
+Method :		
+    - PhoneCall()				    			
+    - SMS()					    
+    - InternetSurfing()
+			- UseGearVR()
+			- TransformToPC()
+
+
